@@ -16,7 +16,7 @@ namespace DesignPatterns.Creational.AbstractFactoryDemo
 
         private static void Create(Architecture architecture)
         {
-            ArchitectureFactory factory = ArchitectureFactory.Get(architecture);
+            AbstractFactory factory = AbstractFactory.Get(architecture);
             Cpu cpu = factory.CreateCpu();
             Console.WriteLine($"The {cpu.Specification} has been created!!");
         }

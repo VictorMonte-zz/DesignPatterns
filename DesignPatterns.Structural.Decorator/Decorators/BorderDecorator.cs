@@ -4,7 +4,7 @@ using System;
 
 namespace DesignPatterns.Structural.DecoratorDemos.Decorators
 {
-    internal class BorderDecorator : AbstractDecorator
+    internal class BorderDecorator : Decorator.Decorator
     {
         public BorderDecorator(IWidget widget) : base(widget)
         {

@@ -2,11 +2,11 @@
 
 namespace DesignPatterns.Structural.DecoratorDemos.Decorator
 {
-    internal abstract class AbstractDecorator : IWidget
+    internal abstract class Decorator : IWidget
     {
         private IWidget _widget;
 
-        public AbstractDecorator(IWidget widget)
+        public Decorator(IWidget widget)
         {
             _widget = widget;
         }

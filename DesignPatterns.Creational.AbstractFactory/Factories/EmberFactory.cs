@@ -3,7 +3,7 @@ using DesignPatterns.Creational.AbstractFactoryDemo.Models.Ember;
 
 namespace DesignPatterns.Creational.AbstractFactoryDemo.Factories
 {
-    internal class EmberFactory : ArchitectureFactory
+    internal class EmberFactory : AbstractFactory
     {
         public override Cpu CreateCpu()
         {

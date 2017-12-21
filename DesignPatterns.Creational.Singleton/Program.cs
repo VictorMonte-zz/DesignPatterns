@@ -7,8 +7,8 @@ namespace DesignPatterns.Creational.SingletonDemo
     {
         static void Main(string[] args)
         {
-            var instance1 = ConnectionSingleton.Instance;
-            var instance2 = ConnectionSingleton.Instance;
+            var instance1 = Singleton.Instance;
+            var instance2 = Singleton.Instance;
 
             Console.WriteLine($"Is same instance? {instance1.Equals(instance2)}.");
             Console.Read();

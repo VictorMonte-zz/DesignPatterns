@@ -7,7 +7,7 @@ namespace DesignPatterns.Creational.AbstractFactoryDemo.Factories
     /// <summary>
     /// This class represents the pattern AbstractFactory
     /// </summary>
-    internal abstract class ArchitectureFactory
+    internal abstract class AbstractFactory
     {
         private static Lazy<EmberFactory> _EMBER_FACTORY = new Lazy<EmberFactory>();
         private static Lazy<EnginolaFactory> _ENGINOLA_FACTORY = new Lazy<EnginolaFactory>();
@@ -18,9 +18,9 @@ namespace DesignPatterns.Creational.AbstractFactoryDemo.Factories
         /// </summary>
         /// <param name="architecture">Type of architecture factory wished.</param>
         /// <returns>The factory needed.</returns>
-        internal static ArchitectureFactory Get(Architecture architecture)
+        internal static AbstractFactory Get(Architecture architecture)
         {
-            ArchitectureFactory factory = null;
+            AbstractFactory factory = null;
             switch (architecture)
             {
                 case Architecture.ENGINOLA:

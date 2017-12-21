@@ -4,7 +4,7 @@ using System;
 
 namespace DesignPatterns.Structural.DecoratorDemo.Decorators
 {
-    internal class ScrollDecorator : AbstractDecorator
+    internal class ScrollDecorator : Decorator
     {
         public ScrollDecorator(IWidget widget) : base(widget)
         {

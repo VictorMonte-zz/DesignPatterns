@@ -3,7 +3,7 @@ using DesignPatterns.Creational.AbstractFactoryDemo.Models.Enginola;
 
 namespace DesignPatterns.Creational.AbstractFactoryDemo.Factories
 {
-    internal class EnginolaFactory : ArchitectureFactory
+    internal class EnginolaFactory : AbstractFactory
     {
         public override Cpu CreateCpu()
         {
