@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Structural.Decorator.Interfaces;
+﻿using DesignPatterns.Structural.DecoratorDemo.Interfaces;
 using System;
 
-namespace DesignPatterns.Structural.Decorator.Models
+namespace DesignPatterns.Structural.DecoratorDemo.Models
 {
     internal class TextField : IWidget
     {

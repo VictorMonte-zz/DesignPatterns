@@ -1,10 +1,10 @@
-﻿using DesignPatterns.Structural.Decorator.Decorators;
-using DesignPatterns.Structural.Decorator.Interfaces;
-using DesignPatterns.Structural.Decorator.Models;
-using DesignPatterns.Structural.Decorators.Decorators;
+﻿using DesignPatterns.Structural.DecoratorDemo.Decorators;
+using DesignPatterns.Structural.DecoratorDemo.Interfaces;
+using DesignPatterns.Structural.DecoratorDemo.Models;
+using DesignPatterns.Structural.DecoratorDemos.Decorators;
 using System;
 
-namespace DesignPatterns.Structural.Decorator
+namespace DesignPatterns.Structural.DecoratorDemo
 {
     internal class Program
     {

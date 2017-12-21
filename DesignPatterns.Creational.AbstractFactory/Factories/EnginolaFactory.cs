@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Creational.AbstractFactory.Models;
-using DesignPatterns.Creational.AbstractFactory.Models.Enginola;
+﻿using DesignPatterns.Creational.AbstractFactoryDemo.Models;
+using DesignPatterns.Creational.AbstractFactoryDemo.Models.Enginola;
 
-namespace DesignPatterns.Creational.AbstractFactory.Factories
+namespace DesignPatterns.Creational.AbstractFactoryDemo.Factories
 {
     internal class EnginolaFactory : ArchitectureFactory
     {

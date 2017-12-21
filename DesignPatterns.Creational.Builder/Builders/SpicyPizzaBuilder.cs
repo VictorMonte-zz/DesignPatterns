@@ -1,8 +1,8 @@
-﻿using DesignPatterns.Creational.Builder.Enums;
-using DesignPatterns.Creational.Builder.Models;
+﻿using DesignPatterns.Creational.BuilderDemo.Enums;
+using DesignPatterns.Creational.BuilderDemo.Models;
 using System;
 
-namespace DesignPatterns.Creational.Builder.Builders
+namespace DesignPatterns.Creational.BuilderDemo.Builders
 {
     internal class SpicyPizzaBuilder : PizzaBuilder
     {

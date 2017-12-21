@@ -1,8 +1,8 @@
-﻿using DesignPatterns.Creational.AbstractFactory.Enums;
-using DesignPatterns.Creational.AbstractFactory.Models;
+﻿using DesignPatterns.Creational.AbstractFactoryDemo.Enums;
+using DesignPatterns.Creational.AbstractFactoryDemo.Models;
 using System;
 
-namespace DesignPatterns.Creational.AbstractFactory.Factories
+namespace DesignPatterns.Creational.AbstractFactoryDemo.Factories
 {
     /// <summary>
     /// This class represents the pattern AbstractFactory

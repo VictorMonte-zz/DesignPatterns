@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Creational.AbstractFactory.Enums
+﻿namespace DesignPatterns.Creational.AbstractFactoryDemo.Enums
 {
     internal enum Architecture
     {

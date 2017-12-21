@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Creational.AbstractFactory.Models.Ember
+﻿namespace DesignPatterns.Creational.AbstractFactoryDemo.Models.Ember
 {
     internal class EmberMmu : Mmu { } 
 }

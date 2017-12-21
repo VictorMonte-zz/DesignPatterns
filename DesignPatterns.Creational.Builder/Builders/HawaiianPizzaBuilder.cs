@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Creational.Builder.Enums;
-using DesignPatterns.Creational.Builder.Models;
+﻿using DesignPatterns.Creational.BuilderDemo.Enums;
+using DesignPatterns.Creational.BuilderDemo.Models;
 
-namespace DesignPatterns.Creational.Builder.Builders
+namespace DesignPatterns.Creational.BuilderDemo.Builders
 {
     internal class HawaiianPizzaBuilder : PizzaBuilder
     {

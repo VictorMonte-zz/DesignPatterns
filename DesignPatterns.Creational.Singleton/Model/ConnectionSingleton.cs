@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatterns.Creational.Singleton.Model
+namespace DesignPatterns.Creational.SingletonDemo.Model
 {
     internal sealed class ConnectionSingleton
     {

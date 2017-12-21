@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Creational.AbstractFactory.Models.Enginola
+﻿namespace DesignPatterns.Creational.AbstractFactoryDemo.Models.Enginola
 {
     internal class EnginolaCpu : Cpu
     {

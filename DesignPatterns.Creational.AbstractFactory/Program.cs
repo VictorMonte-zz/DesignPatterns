@@ -1,9 +1,9 @@
 ﻿using System;
-using DesignPatterns.Creational.AbstractFactory.Enums;
-using DesignPatterns.Creational.AbstractFactory.Factories;
-using DesignPatterns.Creational.AbstractFactory.Models;
+using DesignPatterns.Creational.AbstractFactoryDemo.Enums;
+using DesignPatterns.Creational.AbstractFactoryDemo.Factories;
+using DesignPatterns.Creational.AbstractFactoryDemo.Models;
 
-namespace DesignPatterns.Creational.AbstractFactory
+namespace DesignPatterns.Creational.AbstractFactoryDemo
 {
     internal class Program
     {

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.AbstractFactory", "DesignPatterns.Creational.AbstractFactory\DesignPatterns.Creational.AbstractFactory.csproj", "{0780B642-B49B-4EB5-B1AC-05B85256D102}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.AbstractFactoryDemo", "DesignPatterns.Creational.AbstractFactory\DesignPatterns.Creational.AbstractFactoryDemo.csproj", "{0780B642-B49B-4EB5-B1AC-05B85256D102}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.Builder", "DesignPatterns.Creational.Builder\DesignPatterns.Creational.Builder.csproj", "{D7C07805-E9E1-4949-ADB1-8A2643BEEAA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.BuilderDemo", "DesignPatterns.Creational.Builder\DesignPatterns.Creational.BuilderDemo.csproj", "{D7C07805-E9E1-4949-ADB1-8A2643BEEAA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.Singleton", "DesignPatterns.Creational.Singleton\DesignPatterns.Creational.Singleton.csproj", "{9BAA2F30-B7D0-4AFB-AA2A-1BF5CA8A8110}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.SingletonDemo", "DesignPatterns.Creational.Singleton\DesignPatterns.Creational.SingletonDemo.csproj", "{9BAA2F30-B7D0-4AFB-AA2A-1BF5CA8A8110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Structural.Decorator", "DesignPatterns.Structural.Decorator\DesignPatterns.Structural.Decorator.csproj", "{90F8B9BA-D65C-4626-9284-ED574251B80B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Structural.DecoratorDemo", "DesignPatterns.Structural.Decorator\DesignPatterns.Structural.DecoratorDemo.csproj", "{90F8B9BA-D65C-4626-9284-ED574251B80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Behavioral.MediatorDemo", "DesignPatterns.Behavioral.Mediator\DesignPatterns.Behavioral.MediatorDemo.csproj", "{BB7EFCFD-0C02-4C8D-AFED-52997B86F0E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{90F8B9BA-D65C-4626-9284-ED574251B80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90F8B9BA-D65C-4626-9284-ED574251B80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90F8B9BA-D65C-4626-9284-ED574251B80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7EFCFD-0C02-4C8D-AFED-52997B86F0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7EFCFD-0C02-4C8D-AFED-52997B86F0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7EFCFD-0C02-4C8D-AFED-52997B86F0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7EFCFD-0C02-4C8D-AFED-52997B86F0E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

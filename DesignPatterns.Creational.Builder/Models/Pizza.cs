@@ -1,6 +1,6 @@
-﻿using DesignPatterns.Creational.Builder.Enums;
+﻿using DesignPatterns.Creational.BuilderDemo.Enums;
 
-namespace DesignPatterns.Creational.Builder.Models
+namespace DesignPatterns.Creational.BuilderDemo.Models
 {
     internal class Pizza
     {

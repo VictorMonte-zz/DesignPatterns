@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Creational.Builder.Builders;
-using DesignPatterns.Creational.Builder.Models;
+﻿using DesignPatterns.Creational.BuilderDemo.Builders;
+using DesignPatterns.Creational.BuilderDemo.Models;
 
-namespace DesignPatterns.Creational.Builder.Directors
+namespace DesignPatterns.Creational.BuilderDemo.Directors
 {
     internal class Waiter
     {

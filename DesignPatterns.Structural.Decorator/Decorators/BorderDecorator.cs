@@ -1,8 +1,8 @@
-﻿using DesignPatterns.Structural.Decorator.Interfaces;
-using DesignPatterns.Structural.Decorators.Decorator;
+﻿using DesignPatterns.Structural.DecoratorDemo.Interfaces;
+using DesignPatterns.Structural.DecoratorDemos.Decorator;
 using System;
 
-namespace DesignPatterns.Structural.Decorators.Decorators
+namespace DesignPatterns.Structural.DecoratorDemos.Decorators
 {
     internal class BorderDecorator : AbstractDecorator
     {

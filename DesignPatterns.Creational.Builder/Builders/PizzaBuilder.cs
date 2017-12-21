@@ -1,7 +1,7 @@
 ﻿using System;
-using DesignPatterns.Creational.Builder.Models;
+using DesignPatterns.Creational.BuilderDemo.Models;
 
-namespace DesignPatterns.Creational.Builder.Builders
+namespace DesignPatterns.Creational.BuilderDemo.Builders
 {
     internal abstract class PizzaBuilder
     {

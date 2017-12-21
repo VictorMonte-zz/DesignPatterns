@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Creational.AbstractFactory.Models;
-using DesignPatterns.Creational.AbstractFactory.Models.Ember;
+﻿using DesignPatterns.Creational.AbstractFactoryDemo.Models;
+using DesignPatterns.Creational.AbstractFactoryDemo.Models.Ember;
 
-namespace DesignPatterns.Creational.AbstractFactory.Factories
+namespace DesignPatterns.Creational.AbstractFactoryDemo.Factories
 {
     internal class EmberFactory : ArchitectureFactory
     {

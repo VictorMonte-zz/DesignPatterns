@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Creational.Builder.Enums
+﻿namespace DesignPatterns.Creational.BuilderDemo.Enums
 {
     internal enum PizzaType
     {

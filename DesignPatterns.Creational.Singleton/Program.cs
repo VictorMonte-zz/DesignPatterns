@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Creational.Singleton.Model;
+﻿using DesignPatterns.Creational.SingletonDemo.Model;
 using System;
 
-namespace DesignPatterns.Creational.Singleton
+namespace DesignPatterns.Creational.SingletonDemo
 {
     class Program
     {

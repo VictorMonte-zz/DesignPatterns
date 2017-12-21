@@ -674,9 +674,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\victor.monte\\documents\\visual studio 2017\\Projects\\DesignPatterns\\DesignPatterns.Creational.AbstractFactory\\DesignPatterns.Creational.AbstractFactory.csproj",
-      "projectName": "DesignPatterns.Creational.AbstractFactory",
-      "projectPath": "c:\\users\\victor.monte\\documents\\visual studio 2017\\Projects\\DesignPatterns\\DesignPatterns.Creational.AbstractFactory\\DesignPatterns.Creational.AbstractFactory.csproj",
+      "projectUniqueName": "c:\\users\\victor.monte\\documents\\visual studio 2017\\Projects\\DesignPatterns\\DesignPatterns.Creational.AbstractFactory\\DesignPatterns.Creational.AbstractFactoryDemo.csproj",
+      "projectName": "DesignPatterns.Creational.AbstractFactoryDemo",
+      "projectPath": "c:\\users\\victor.monte\\documents\\visual studio 2017\\Projects\\DesignPatterns\\DesignPatterns.Creational.AbstractFactory\\DesignPatterns.Creational.AbstractFactoryDemo.csproj",
       "packagesPath": "C:\\Users\\victor.monte\\.nuget\\packages\\",
       "outputPath": "c:\\users\\victor.monte\\documents\\visual studio 2017\\Projects\\DesignPatterns\\DesignPatterns.Creational.AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",

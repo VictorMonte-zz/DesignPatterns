@@ -1,8 +1,8 @@
-﻿using DesignPatterns.Creational.Builder.Builders;
-using DesignPatterns.Creational.Builder.Directors;
+﻿using DesignPatterns.Creational.BuilderDemo.Builders;
+using DesignPatterns.Creational.BuilderDemo.Directors;
 using System;
 
-namespace DesignPatterns.Creational.Builder
+namespace DesignPatterns.Creational.BuilderDemo
 {
     internal class Program
     {

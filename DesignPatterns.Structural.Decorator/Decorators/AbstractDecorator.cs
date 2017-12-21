@@ -1,6 +1,6 @@
-﻿using DesignPatterns.Structural.Decorator.Interfaces;
+﻿using DesignPatterns.Structural.DecoratorDemo.Interfaces;
 
-namespace DesignPatterns.Structural.Decorators.Decorator
+namespace DesignPatterns.Structural.DecoratorDemos.Decorator
 {
     internal abstract class AbstractDecorator : IWidget
     {
