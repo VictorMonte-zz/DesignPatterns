@@ -1,0 +1,11 @@
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\bin\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.deps.json
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\bin\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.runtimeconfig.json
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\bin\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.runtimeconfig.dev.json
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\bin\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.dll
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\bin\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.pdb
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\obj\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.csprojResolveAssemblyReference.cache
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\obj\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.csproj.CoreCompileInputs.cache
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\obj\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.AssemblyInfoInputs.cache
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\obj\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.AssemblyInfo.cs
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\obj\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.dll
+c:\users\victor.monte\documents\visual studio 2017\Projects\DesignPatterns\DesignPatterns.Creational.AbstractFactory\obj\Debug\netcoreapp2.0\DesignPatterns.Creational.AbstractFactory.pdb
