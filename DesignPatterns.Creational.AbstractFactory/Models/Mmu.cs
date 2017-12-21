@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatterns.Creational.AbstractFactory.Models
+﻿namespace DesignPatterns.Creational.AbstractFactory.Models
 {
-    internal class Mmu
-    {
-    }
+    internal class Mmu { }
 }

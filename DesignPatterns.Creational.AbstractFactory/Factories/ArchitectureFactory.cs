@@ -33,8 +33,8 @@ namespace DesignPatterns.Creational.AbstractFactory.Factories
             return factory;
         }
 
-        public abstract Cpu CreateCPU();
+        public abstract Cpu CreateCpu();
 
-        public abstract Mmu CreateMMU();
+        public abstract Mmu CreateMmu();
     }
 }

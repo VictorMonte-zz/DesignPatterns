@@ -1,18 +1,18 @@
 ﻿using DesignPatterns.Creational.AbstractFactory.Models;
-using System;
+using DesignPatterns.Creational.AbstractFactory.Models.Ember;
 
 namespace DesignPatterns.Creational.AbstractFactory.Factories
 {
     internal class EmberFactory : ArchitectureFactory
     {
-        public override Cpu CreateCPU()
+        public override Cpu CreateCpu()
         {
-            throw new NotImplementedException();
+            return new EmberCpu();
         }
 
-        public override Mmu CreateMMU()
+        public override Mmu CreateMmu()
         {
-            throw new NotImplementedException();
+            return new EmberMmu();
         }
     }
 }
